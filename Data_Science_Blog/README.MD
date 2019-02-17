@@ -10,13 +10,13 @@ This is an open end project where I attempt to analyze the data of the Airbnb Se
 4. How do the top earning listings compare to the worst earning listings in terms of features?
 5. What are the most popular and most expensive neighborhoods in Seattle?
 
-Here is the article on Medium: 
+Here is the article on Medium: https://medium.com/@waficfahme/is-it-worth-becoming-an-airbnb-host-in-seattle-2240f889d047
 
 ## File Descriptions
-AirBnB.ipynb: Contains all the analysis for Seattle Airbnb listing with proper functions that can be used for simialr dataset
+AirBnB.ipynb: Contains all the analysis for Seattle Airbnb listing with proper functions that can be used for similar dataset
 
 ## Data
-The data used in this project are the Seattle Airbnb can be downloaded from this [link](https://www.kaggle.com/airbnb/seattle).
+The data used in this project are the Seattle Airbnb can be downloaded from here(https://www.kaggle.com/airbnb/seattle).
 
 ## Installations
 Anaconda, Seaborn, sklearn
